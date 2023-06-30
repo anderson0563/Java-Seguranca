@@ -1,0 +1,12 @@
+Garantir a satisfação do cliente, entregando rápida e continuamente software funcional;
+Até mesmo mudanças tardias de escopo no projeto são bem-vindas.
+Software funcional é entregue frequentemente (semanal ou mensal - o menor intervalo possível);
+Cooperação constante entre as pessoas que entendem do 'negócio' e os desenvolvedores;
+Projetos surgem por meio de indivíduos motivados, devendo existir uma relação de confiança.
+A melhor forma de transmissão de informação entre desenvolvedores é através da conversa 'cara a cara'
+Software funcional é a principal medida de progresso do projeto;
+Novos recursos de software devem ser entregues constantemente. Clientes e desenvolvedores devem manter um ritmo até a conclusão do projeto.
+Design do software deve prezar pela excelência técnica;
+Simplicidade – a arte de maximizar a quantidade de trabalho que não é feito – é essencial;
+As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis.
+Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina e ajusta seu comportamento.
